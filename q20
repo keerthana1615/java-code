@@ -1,0 +1,9 @@
+public class Main {
+    public static void main(String[] args) {
+
+        System.out.println("Size of char: " + Character.BYTES );
+        System.out.println("Size of int: " + Integer.BYTES );
+        System.out.println("Size of float: " + Float.BYTES );
+        System.out.println("Size of double: " + Double.BYTES );
+    }
+}
